@@ -1,0 +1,3 @@
+base.url=${targetGet.url}
+post.url=${targetPost.url}
+post.body=${body.post}
